@@ -1,10 +1,11 @@
-# Teach HR Python
+# Teach Girl Friend Python
 
-My girl is HR, she wants to learn some programming. So Python~
+My girl is HR, but she wants to learn some programming. So Python~
 
 ## Skeleton
 
- - Lesson 1. Terminal
+ - Lesson 1: **Python in Terminal**
    - Shell and Terminal
    - What is file path
-   - Python in terminal
+   - Run python in terminal
+   - Why code style is important
